@@ -1,0 +1,12 @@
+{
+  "name": "student-data-entry-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for student data entry using Express and JSON file storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
